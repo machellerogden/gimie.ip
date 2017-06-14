@@ -1,6 +1,6 @@
 {
-  "name": "gimie.ip",
-  "version": "1.0.2",
+  "name": "gimie.weather",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,16 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/machellerogden/gimie.ip.git"
+    "url": "git+https://github.com/machellerogden/gimie.weather.git"
   },
   "keywords": [],
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/machellerogden/gimie.ip/issues"
+    "url": "https://github.com/machellerogden/gimie.weather/issues"
   },
-  "homepage": "https://github.com/machellerogden/gimie.ip#readme",
+  "homepage": "https://github.com/machellerogden/gimie.weather#readme",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "bluebird": "^3.5.0",
+    "lodash": "^4.17.4",
+    "weather-js": "^2.0.0"
   }
 }
