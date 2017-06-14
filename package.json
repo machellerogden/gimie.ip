@@ -1,6 +1,6 @@
 {
   "name": "gimie.ip",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/machellerogden/gimie.ip.git"
   },
-  "keywords": [],
+  "keywords": [
+    "gimie"
+  ],
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
@@ -19,8 +21,5 @@
   "homepage": "https://github.com/machellerogden/gimie.ip#readme",
   "dependencies": {
     "lodash": "^4.17.4"
-  },
-  "keywords": [
-    "gimie"
-  ]
+  }
 }
