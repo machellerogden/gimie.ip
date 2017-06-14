@@ -19,5 +19,8 @@
   "homepage": "https://github.com/machellerogden/gimie.ip#readme",
   "dependencies": {
     "lodash": "^4.17.4"
-  }
+  },
+  "keywords": [
+    "gimie"
+  ]
 }
